@@ -2,7 +2,7 @@
 
 Real-time network intrusion detection using a Hybrid Ensemble of ML models.
 
-**Team:** Lokesh C · Akshaya S E · Amogh Gaurav B H  
+**Team:** Akshaya S E · Lokesh C · Amogh Gaurav B H  
 **Institution:** Dayananda Sagar University, AICS 2025
 
 ## Models Used
