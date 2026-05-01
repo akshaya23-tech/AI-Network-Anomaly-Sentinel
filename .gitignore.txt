@@ -1,0 +1,12 @@
+*.pkl
+*.joblib
+*.arff
+*.csv
+train_csv.txt
+test_csv.txt
+KDD*
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
